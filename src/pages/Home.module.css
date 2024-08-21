@@ -1,0 +1,31 @@
+.home {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.home hr {
+    border-top: 1px solid rgb(0, 0, 0);
+    width: 160px;
+    padding: 0;
+    margin-top: 0;
+}
+
+.art img {
+    width: 100px;
+}
+
+.row {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.image {
+    width: 50%;
+}
+
+.image img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}

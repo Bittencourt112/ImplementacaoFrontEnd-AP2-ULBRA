@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "d29d",
+      "name": "Logitech G203",
+      "price": "162.90",
+      "description": "Gaming mice",
+      "image": "https://m.media-amazon.com/images/I/61UxfXTUyvL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "59cf",
+      "name": "Logitech MK470 Slim",
+      "price": "188.29",
+      "description": "Wireless keyboard and mice combo",
+      "image": "https://m.media-amazon.com/images/I/617Z1AjGmgL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "7bd0",
+      "name": "Samsung T350",
+      "price": "547.28",
+      "description": "FHD Gaming display",
+      "image": "https://m.media-amazon.com/images/I/61XJEwvCL8L._AC_SL1100_.jpg"
+    },
+    {
+      "id": "dd1c",
+      "name": "Kingston SA400S37",
+      "price": "229.98",
+      "description": "480GB Storage SSD",
+      "image": "https://m.media-amazon.com/images/I/81Yleainj1L._AC_SL1500_.jpg"
+    },
+    {
+      "id": "9dd8",
+      "name": "Logitech C920s",
+      "price": "439.00",
+      "description": "FHD Webcam with built-in microphone",
+      "image": "https://m.media-amazon.com/images/I/61SCZyiMSNL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "6822",
+      "name": "Seagate STEA1000400",
+      "price": "397.97",
+      "description": "1TB Storage HDD",
+      "image": "https://m.media-amazon.com/images/I/61M26vVITHL._AC_SL1000_.jpg"
+    },
+    {
+      "id": "8460",
+      "name": "HP 667",
+      "price": "57.61",
+      "description": "Ink cartridge for HP Deskjet series",
+      "image": "https://m.media-amazon.com/images/I/81rYpjuTwdL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "54da",
+      "name": "Microsoft 365 Personal",
+      "price": "138.72",
+      "description": "Subscription for office and cloud services",
+      "image": "https://m.media-amazon.com/images/I/61c2fmVAAbL._AC_SL1000_.jpg"
+    },
+    {
+      "id": "7841",
+      "name": "O homem mais rico da Babilônia",
+      "price": "34.90",
+      "description": "Book by George S. Clason",
+      "image": "https://m.media-amazon.com/images/I/81ehX6Quw2L._SL1500_.jpg"
+    },
+    {
+      "id": "571b",
+      "name": "Presidente Atlanta Duoffice",
+      "price": "579.90",
+      "description": "Home office chair",
+      "image": "https://m.media-amazon.com/images/I/51BMMOKhSJL._AC_SL1000_.jpg"
+    },
+    {
+      "id": "fe88",
+      "name": "Trevalla Kuadra Desk",
+      "price": "229.90",
+      "description": "Office desk",
+      "image": "https://m.media-amazon.com/images/I/71rEzMec3zL._AC_SL1200_.jpg"
+    },
+    {
+      "id": "1f91",
+      "name": "Invicta Air Pot Slim",
+      "price": "74.92",
+      "description": "Inox thermic bottle of 1.8 liters",
+      "image": "https://m.media-amazon.com/images/I/71jPfBKo8AL._AC_SL1500_.jpg"
+    }
+  ]
+}

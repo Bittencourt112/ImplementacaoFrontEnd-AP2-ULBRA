@@ -1,0 +1,39 @@
+.productform {
+    height: 800px;
+    width: 50%;
+}
+
+.productform form {
+    height: 87%;
+    width: 80%;
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.productform form input {
+    font-family: inherit;
+    font-size: inherit;
+    padding: 15px;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 10px;
+    background-color: rgb(230, 230, 230);
+    margin-bottom: 20px;
+    width: 60%;
+}
+
+.productform input[type=submit] {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 30%;
+}
+
+.productform input[type=submit]:hover {
+    color: rgb(255, 200, 0);
+    transition: 0.25s;
+    cursor: pointer;
+}
